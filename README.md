@@ -45,7 +45,8 @@ Expected Result: The item should be successfully added to the cart, and the cart
 
 2. **Install Dependencies**:
     - Install the required Python libraries:
-     
+      ```
+      pip3 install pytest pandas openpyxl selenium webdriver_manager faker
       ```
     - Make sure you have Chrome WebDriver installed and accessible in your PATH.
 
